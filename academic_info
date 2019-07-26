@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+    <head>
+    <style>
+        
+         ul {
+  list-style-type:none;
+  margin: -20px;
+  padding: ;
+  overflow: hidden;
+  background-color:darkcyan;
+  
+  
+}
+
+li {
+  float: left;
+    margin-left:343px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration:none;
+    
+}
+
+li a:hover {
+  background-color:darkturquoise;
+}
+      
+        
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td, th {
+            border: 1px dotted yellow;
+            text-align: center;
+            padding: 8px;
+            background-color:skyblue
+        }
+        </style>
+    </head>
+<body style="margin:auto">
+     <div style="background-color:deepskyblue">
+    <h2 style="color:darkslategrey;text-align: center;margin-top: auto;padding: 10px"><b>UNITED INTERNATIONAL UNIVERSITY</b></h2>
+    </div>
+    
+        <ul>
+  <li><a href="#home">| Academic Info</a></li>
+  <li><a href="#news">| Hobbies</a></li>
+  
+</ul>
+    
+    <table>
+        <caption style="padding:10px;background-color:darkseagreen;color:deeppink;margin-top: 100px"><i>Academic Information</i></caption>
+    <tr>
+        <th>Name</th>
+        <td>Md. Ridwanur Rahman</td>
+        </tr>
+        <tr>
+        <th>Home District</th>
+            <td>Chuadanga</td>
+        </tr>
+        <tr>
+        <th>School</th>
+            <td>Walk-up High School</td>
+        </tr>
+        <tr>
+        <th>SSC passing year</th>
+            <td>2016</td>
+        </tr>
+        <tr>
+        <th>college</th>
+            <td>Northern College Bangladesh</td>
+        </tr>
+        <tr>
+        <th>College passing year</th>
+            <td>2018</td>
+        </tr>
+        <th>School Link(facebook)</th>
+        <td><a href ="https://www.facebook.com/Walk-Up-High-School-147416808768382">Walk-up High School</a></td>
+        <tr>
+        <th>College Link(facebook)</th>
+        <td><a href = "https://www.facebook.com/ncb.edu.bd">Northern College Bangladesh</a></td>
+        </tr>
+    </table>
+    <br><br>
+    
+    <b style="border: 3px solid yellow;border-radius: 5px;background-color:azure;paddin:5px;border-spacing: 5px">WHY DID I CHOOSE COMPUTER SCIENCE AND ENGINEERING?</b>
+    <br>
+    <p>The answer is pretty simple. I do like to lead something logically, in a systemetic way and that's what computer science makes you to be. My first access of computer was back in 2012 and from then it turned out to be kinda my best friend. Computer is such an amazing thing that I've ever witnessed something else than that. That green loading long button literally takes me to another world.</p>
+    <br><br>
+    
+    <div style="background-color:cornflowerblue">
+        <p style="text-align: center;margin-bottom: auto;padding:10px">This Site was made by<br><b>Md. Ridwanur Rahman</b><br><b>ID: 011 192 023</b><br><b style="color:coral">United International University</b></p>
+    
+    </div>
+    </body>
+</html>
