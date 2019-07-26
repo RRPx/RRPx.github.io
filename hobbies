@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        ul {
+  list-style-type:none;
+  margin: -20px;
+  padding: ;
+  overflow: hidden;
+  background-color:darkcyan;
+  
+  
+}
+
+li {
+  float: left;
+    margin-left:343px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration:none;
+    
+}
+
+li a:hover {
+  background-color:darkturquoise;
+}
+        .row::after{
+            content:"";
+            clear: both;
+            display: table;
+        }
+        .column {
+            float: left;
+            padding: 5px;
+            margin-top: -4.8px;
+            margin-left: 45px;
+        }
+        </style>
+    </head>
+<body style="margin: auto">
+    <div style="background-color:deepskyblue">
+    <h2 style="color:darkslategrey;text-align: center;margin-top: auto;padding: 10px"><b>UNITED INTERNATIONAL UNIVERSITY</b></h2>
+    </div>
+    <ul>
+  <li><a href ="Academic_info.html">| Academic Info</a></li>
+  <li><a href="#news">| Hobbies</a></li>
+  
+</ul>
+    <br><br><br><br><br>
+    
+    <p style="border-left: 8px solid green;background-color: black;color:ghostwhite;padding:10px;width: 15%">My Favourite Past-time</p>
+    
+    <p style="background-color:black;color:white;margin-left: 50px;width: 50%">During my free time, I like to code, design, watch youtube videos about prank, motivation etc. I also do like to watch cartoon-'Doraemon' is my favourite undoubtedly and if there is any trending movies wait for me to watch it, I never miss the opportunity. I grab some spicy food/pop-corn, noodles sometimes then sit tightly on the tool then enjoy watching movies. Sometimes, don't forget to wink my friends though.</p>
+    <hr style="border-color:black">
+    <p style="border-left: 8px solid green;background-color: black;color:ghostwhite;padding:10px;width:15%">Favourite Books</p>
+    <div class="row">
+        <div class="column">
+    <img src="SirAldrin1.jfif" width="250px" height="300px" >
+            <p><b>No Dream Is Too High</b></p>
+        </div>
+        <div class="column">
+        <img src="SirAldrin2.jpg" width="250" height="300px">
+            <p><b>Mission To Mars</b></p>
+        </div>
+        <div class="column">
+        <img src="SirHawking.jpg" width="250" height="300px">
+            <p><b>A Brief History Of Time</b></p>
+        </div>
+        <div class="column">
+        <img src="SirHawking2.jpg" width="250" height="300px">
+            <p><b>Brief Answers To The Big Questions</b></p>
+        </div>
+         
+        
+    </div>
+    <hr style="border-color:black">
+     <p style="border-left: 8px solid green;background-color: black;color:ghostwhite;padding:10px;width: 15%">Favourite Movies</p>
+    <div class="row">
+        <div class="column">
+    <img src="Prat.jpg" width="250px" height="300px" >
+            <p><b>Passengers:2016</b></p>
+        </div>
+        <div class="column">
+        <img src="Da.jpg" width="250" height="300px">
+            <p><b>Blood Diamond</b></p>
+        </div>
+        <div class="column">
+        <img src="Ja.jpg" width="250" height="300px">
+            <p><b>Jurassic Park</b></p>
+        </div>
+        <div class="column">
+        <img src="Titanic.jpg" width="250" height="300px">
+            <p><b>The Titanic</b></p>
+        </div>
+    </div>
+        <hr style="border-color:black">
+     <p style="border-left: 8px solid green;background-color: black;color:ghostwhite;padding:10px;width: 15%">Favourite Sports</p>
+    <div class="row">
+        <div class="column">
+    <img src="Cricket.webp" width="250px" height="300px" >
+            <p><b>Cricket</b></p>
+        </div>
+        <div class="column">
+        <img src="football.jpg" width="250" height="300px">
+            <p><b>Football</b></p>
+        </div>
+         <div class="column">
+        <img src="Raw.jpg" width="250" height="300px">
+            <p><b>Wrestling</b></p>
+        </div>
+        <div class="column">
+        <img src="Chess.jpg" width="250" height="300px">
+            <p><b>Chess</b></p>
+        </div>
+        
+    </div>
+    <hr style="border-color:black">
+    <p style="border-left: 8px solid green;background-color: black;color:ghostwhite;padding:10px;width: 15%">Favourite Persons</p>
+    <div class="row">
+        <div class="column">
+    <img src="SirHawking0.jpeg" width="250px" height="300px" >
+            <p><b><i>Sir</i> Stephen Hawking</b></p>
+        </div>
+        <div class="column">
+        <img src="MadamEllen.webp"width="250" height="300px">
+            <p><b><i>Ma'am</i> Ellen Degeneres</b></p>
+        </div>
+        <div class="column">
+        <img src="SirJobs.jpg" width="250" height="300px">
+            <p><b><i>Sir</i> Steve Jobs</b></p>
+        </div>
+        <div class="column">
+        <img src="SirJohnson.jpg" width="250" height="300px">
+            <p><b><i>Sir</i> Dwayne Johnson</b></p>
+        </div>
+         
+        
+    </div>
+    <br><br>
+    <div style="background-color:cornflowerblue">
+        <p style="text-align: center;margin-bottom: auto;padding:10px">This Site was made by<br><b>Md. Ridwanur Rahman</b><br><b>ID: 011 192 023</b><br><b style="color:coral">United International University</b></p>
+    
+    </div>
+    
+    
+    
+    
+    </body>
+</html>
